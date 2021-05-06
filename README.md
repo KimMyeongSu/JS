@@ -2,4 +2,4 @@
 
 ### topic 1
 
-● [변수 , 함수 , 파라미터 ,Return](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic1/index.js)
+● [변수 , 함수 , 파라미터 , Return](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic1/index.js)
