@@ -7,7 +7,7 @@
 ### topic 2
 ● [문자열표기 , null-undefined , typeof](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic2/DataType.js)
 
-● [연산자 , 함수호출 , 옵셔널파라미터 , scope , 상수](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic2/abstracion.js)
+● [연산자 , 함수호출 , 옵셔널파라미터 , scope , 상수](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic2/abstraction.js)
 
 ### topic 3
 ● [객체(수정,추가,삭제),메서드 , for..in , Date object ](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic3/object.js)
