@@ -13,6 +13,7 @@
 ### topic 3
 ● [객체(수정,추가,삭제),메서드 , for..in , Date object ](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic3/object.js)
 
-### topic 3
 ● [배열(array),splic,shoft(),pop(),unshift(),push(),indexof(),lastindexof(),includes(),reverse(),for..of  ,다차원 배열](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic3/array.js)
 
+
+● [숫자표기법 , toFixed, toString , Math객체 ,문자열](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic3/datatpye2.js)
