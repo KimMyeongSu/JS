@@ -16,4 +16,4 @@
 ● [배열(array),splic,shoft(),pop(),unshift(),push(),indexof(),lastindexof(),includes(),reverse(),for..of  ,다차원 배열](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic3/array.js)
 
 
-● [숫자표기법 , toFixed, toString , Math객체 ,문자열](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic3/datatpye2.js)
+● [숫자표기법 , toFixed, toString , Math객체 ,문자열](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/topic3/datatype2.js)
