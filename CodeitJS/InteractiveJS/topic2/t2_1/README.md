@@ -23,12 +23,12 @@ ECMAScript의 첫 버전은 1997년에 등장했지만, 매년 새로운 버전�
 ● [공식문서](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 ## 진행 현황
-지금까지 제정된 ECMAScript 표준 사항이나 과거 역사
+지금까지 제정된 ECMAScript 표준 사항이나 과거 역사<br/>
 ● [위키백과 - ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)<br/>
 ● [MDN 문서](https://developer.mozilla.org/ko/docs/Web/JavaScript/Language_Resources)
 
 
-### 브라우저 지원 현황 (자주 사용)
+### 브라우저 지원 현황 (자주 사용)<br/>
 ● [호환성 테이블](http://kangax.github.io/compat-table/es6/)<br/>
 ● [문법 검색](https://developer.mozilla.org/ko/docs/Web/JavaScript/)
 
@@ -41,7 +41,7 @@ ECMAScript의 첫 버전은 1997년에 등장했지만, 매년 새로운 버전�
     첫 번째 차이점은, JavaScript는 프로그래밍 언어이고, ECMAScript는 프로그래밍 언어의 표준 쉽게 생각하면 ECMAScript는 JavaScript가 갖추어야 할 내용을 정리해둔 <b>설명서</b> JavaScript는 ECMAScript를 준수해서 만들어낸 <b>결과물</b>
     </li><br/>
     참고로 ECMAScript가 JavaScript화 하기 위해 등장하긴 했지만, ECMAScript는 JavaScript 뿐만아니라 모든 스크립트 언어(scripting languages)가 지켜야 하는 표준
-    <br/>
+    <br/><br/>
     <li>두 번째 차이점은 JavaScript는 ECMAScript를 기반으로 하지만 ECMAScript에 정의된 내용뿐만 아니라, 다른 부가적인 기능도 있다 특히, 우리가 자바스크립트로 HTML 코드를 제어하기 위해 사용하는 DOM(Document Object Model)을 다루는 문법들은 ECMAScript에 표준화된 문법이 아니라 WebIDL에서 표준화된 기술이라고 할 수 있다.
     </li>
 </ol>
