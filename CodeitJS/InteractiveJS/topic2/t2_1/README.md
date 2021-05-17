@@ -24,12 +24,12 @@ ECMAScript의 첫 버전은 1997년에 등장했지만, 매년 새로운 버전�
 
 ## 진행 현황
 지금까지 제정된 ECMAScript 표준 사항이나 과거 역사
-● [위키백과 - ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
+● [위키백과 - ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)<br/>
 ● [MDN 문서](https://developer.mozilla.org/ko/docs/Web/JavaScript/Language_Resources)
 
 
 ### 브라우저 지원 현황 (자주 사용)
-● [호환성 테이블](http://kangax.github.io/compat-table/es6/)
+● [호환성 테이블](http://kangax.github.io/compat-table/es6/)<br/>
 ● [문법 검색](https://developer.mozilla.org/ko/docs/Web/JavaScript/)
 
 
