@@ -16,7 +16,7 @@
                 <ul>
                         <li>
                             세미콜론,코멘트,자료형,추상화,변수,작명가이드,함수,파라미터,Return
-                            [topic1](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic1/index.js)
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic1/index.js">topic1_1</a>
                         </li>
                 </ul>
             </li>            
@@ -27,16 +27,16 @@
             <li>자료형
                 <ul>
                         <li>
-                            숫자형,문자열,불 대수,불린형,typeof,연산자우선순위,형변환,템플릿문자열,unll,undeined
-                            [topic2_DataType](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic2/DataType.js)                            
+                            숫자형,문자열,불 대수,불린형,typeof,연산자우선순위,형변환,템플릿문자열,unll,undeined                            
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic2/DataType.js">topic2_DataType</a>
                         </li>
                 </ul>
             </li>
             <li>추상화
                 <ul>
                         <li>
-                            할당연산자,함수실행순서,Return,옵셔널파라미터,Scope,상수 
-                            [topic2_Abstraction](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic2/abstraction.js)                                                  
+                            할당연산자,함수실행순서,Return,옵셔널파라미터,Scope,상수     
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic2/abstraction.js">topic2_Abstraction</a>
                         </li>
                 </ul>
             </li>            
@@ -44,7 +44,7 @@
                 <ul>
                         <li>
                             if,switch,for,while,break-continue  
-                            [topic2_Control](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic2/control.js)                                                  
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic2/control.js">topic2_Control</a>
                         </li>
                 </ul>
             </li>             
@@ -60,16 +60,16 @@
             <li>인터랙티브 자바스크립트 시작하기
                 <ul>
                         <li>
-                            id로 태그 선택,class로 태그 선택,유사배열,css선택자로 태그 선택,이벤트와 버튼 클릭
-                            [topic1_1](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_1/README.md)                            
+                            id로 태그 선택,class로 태그 선택,유사배열,css선택자로 태그 선택,이벤트와 버튼 클릭     
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_1/README.md">topic1_1</a>                            
                         </li> 
                 </ul>
             </li>
             <li>브라우저와 자바스크립트
                 <ul>
                         <li>
-                            DOM,DOM 트리,요소 노드 프로퍼티,HTML속성,스타일다루기 
-                            [topic1_2](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_2/README.md)                   
+                            DOM,DOM 트리,요소 노드 프로퍼티,HTML속성,스타일다루기           
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_2/README.md">topic1_2</a>                            
                         </li>
                 </ul>
             </li>            
@@ -77,7 +77,7 @@
                 <ul>
                         <li>
                             이벤트 핸들러,이벤트 객체,이벤트 버블링,브라우저 동작 
-                            [topic1_3](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_3/README.md)                   
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_3/README.md">topic1_3</a>                            
                         </li>
                 </ul>
             </li>            
@@ -85,7 +85,7 @@
                 <ul>
                         <li>
                             마우스 버튼 이벤트,키보드 이벤트,Input 태그다루기,스크롤이벤트
-                            [topic1_4](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_4/README.md)                   
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic1/t1_4/README.md">topic1_4</a>                           
                         </li>
                 </ul>
             </li>                                    
@@ -97,7 +97,7 @@
                 <ul>
                         <li>
                             자바스크립트,모던 자바스크립트,JavaScript vs ECMAScript
-                            [topic2_1](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_1/README.md)                            
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_1/README.md">topic2_1</a>                            
                         </li> 
                 </ul>
             </li>
@@ -105,7 +105,7 @@
                 <ul>
                         <li>
                             데이터 타입의 특징과 종류,Symbol,BigInt,typeof 연산자null 병합 연산자 ??,Truthy 값과 Falsy 값,함수 스코프(function scope)와 블록 스코프(block scope)
-                            [topic2_2](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_2/README.md)                            
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_2/README.md">topic2_2</a>                            
                         </li> 
                 </ul>
             </li>            
@@ -113,7 +113,7 @@
                 <ul>
                         <li>
                             함수 선언,함수 표현식,다양한 함수의 형태,파라미터의 기본값,arguments 객체,Rest Parameter,Arrow Function,this
-                            [topic2_3](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_3/README.md)                            
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_3/README.md">topic2_3</a>                            
                         </li> 
                 </ul>
             </li>                        
@@ -121,7 +121,7 @@
                 <ul>
                         <li>
                             조건부 연산자,Spread 구문,모던한 프로퍼티 표기법,구조 분해,에러와 에러 객체,try catch문
-                            [topic2_4](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_4/README.md)                            
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_4/README.md">topic2_4</a>                           
                         </li> 
                 </ul>
             </li>                                    
