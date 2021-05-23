@@ -16,7 +16,8 @@
                 <ul>
                         <li>
                             세미콜론,코멘트,자료형,추상화,변수,작명가이드,함수,파라미터,Return
-                            [topic1] (https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic1/index.js)
+                            [topic1](https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/basicJS/topic1/index.js)
+
                         </li>
                 </ul>
             </li>            
