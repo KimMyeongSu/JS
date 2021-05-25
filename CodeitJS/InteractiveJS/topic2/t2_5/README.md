@@ -134,7 +134,7 @@ sort 메소드를 사용할 때 한 가지 주의해야될 부분은 메소드�
 new 키워드를 통해서 <code>Map</code>을 만들 수 있고 아래와 같은 메소드를 통해 <code>Map</code> 안의 여러 값들을 다룰 수 있다.
 <ul>
 <li><code>map.set(key, value)</code>: key를 이용해 value를 추가하는 메소드.</li>
-map.get(key): key에 해당하는 값을 얻는 메소드. key가 존재하지 않으면 undefined를 반환.</li>
+<li><code>map.get(key)</code>: key에 해당하는 값을 얻는 메소드. key가 존재하지 않으면 undefined를 반환.</li>
 <li><code>map.has(key)</code>: key가 존재하면 true, 존재하지 않으면 false를 반환하는 메소드.</li>
 <li><code>map.delete(key)</code>: key에 해당하는 값을 삭제하는 메소드.</li>
 <li><code>map.clear()</code>: Map 안의 모든 요소를 제거하는 메소드.</li>
