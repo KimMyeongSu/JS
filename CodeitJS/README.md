@@ -124,7 +124,15 @@
                             <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_4/README.md">topic2_4</a>                           
                         </li> 
                 </ul>
-            </li>                                    
+            </li>             
+            <li>자바스크립트의 유용한 내부 기능
+                <ul>
+                        <li>
+                            forEach 메소드,map 메소드,filter 메소드,find 메소드,some 메소드,every 메소드,reduce 메소드,sort 메소드,reverse 메소드,Map,Set
+                            <br/><a href="https://github.com/KimMyeongSu/JS/blob/main/CodeitJS/InteractiveJS/topic2/t2_5/README.md">topic2_5</a>                           
+                        </li> 
+                </ul>
+            </li>                         
     </li>    
 </ol>
 
