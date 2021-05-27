@@ -24,7 +24,9 @@ console.log(twiceNumbers); // (3) [2, 4, 6]
  ## filter 메소드
  <code>filter</code> 메소드는 배열의 요소를 하나씩 살펴보면서 콜백함수가 리턴하는 조건과 일치하는 요소만 모아서 새로운 배열을 리턴
 
+
  ```javascript 
+ //추후 
    {name: 'GalaxyNote', brand: 'Samsung'},
   {name: 'MacbookPro', brand: 'Apple'},
   {name: 'Gram', brand: 'LG'},
