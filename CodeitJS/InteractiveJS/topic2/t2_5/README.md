@@ -26,7 +26,7 @@ console.log(twiceNumbers); // (3) [2, 4, 6]
 
 
  ```javascript 
- //추후 
+ //추후 콜백함수에 대해서 정리 필요!! 
    {name: 'GalaxyNote', brand: 'Samsung'},
   {name: 'MacbookPro', brand: 'Apple'},
   {name: 'Gram', brand: 'LG'},
