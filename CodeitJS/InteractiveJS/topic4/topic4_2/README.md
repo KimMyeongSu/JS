@@ -64,7 +64,7 @@ const member = {
 자바스크립트에서는 프로퍼티의 값으로 사용할 수 있는 
 undefined, NaN, Infinity 등을 JSON에서는 사용할 수 없다.
 
-<b>JSON에는 주석을 추가할 수 없습니다</b>
+<b>JSON에는 주석을 추가할 수 없다</b>
 
 JSON은 코드가 아니라 <b>데이터 포맷</b>이기 때문에 그 안에 주석을 포함시킬 수 없다.
 </pre>
@@ -104,3 +104,4 @@ Create-Read-Update-Delete의 약자
 | <code>PUT</code> | UPDATE
 | <code>DELETE</code> | DELETE
 
+## REST API
