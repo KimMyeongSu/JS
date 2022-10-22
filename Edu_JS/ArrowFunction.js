@@ -26,4 +26,12 @@ const sampleFnc = function() {
 const sampleFnc = () => console.log('sampleFnc');
 const add = (num1, num2) => num1 + num2;
 
+// 3개다 같은 표현 
+let doubleNum = function nomalFnc(num){
+    return num *2;
+}
+let doubleNum=(num)=> {return num *2}
+let doubleNum=(num)=>  num * 2
+
+
 
