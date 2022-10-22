@@ -18,6 +18,12 @@ function printHello(){
 
 //Arrow function 
 // 항상 이름이 없음  always anonymous 
+/**
+ * 1. 파라미터가 하나일 때 파라미터를 감싸는 소괄화 부분 생략가능
+ * ex) let doubleNum = (num) =>  num * 2 
+ *     let doubleNum = num =>  num * 2
+ * 2. return이 하나일때 return 키워드 생략가능 
+ */
 
 const sampleFnc = function() {
     console.log('sampleFnc');
@@ -33,5 +39,13 @@ let doubleNum = function nomalFnc(num){
 let doubleNum=(num)=> {return num *2}
 let doubleNum=(num)=>  num * 2
 
+const getObject = function(a, b, c) {
+    return { 0: a, 1: b, 3: c };
+  }
+
+const getObject = (a,b,c) => {
+    0: a, 1: b, 3: c
+}
+const getObject = (a, b, c) => ({ 0: a, 1: b, 3: c });
 
 
