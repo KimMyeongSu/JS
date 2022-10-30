@@ -34,7 +34,7 @@ eruda.hasJob  = true; // 생성 이후에 이렇게 추가도 가능
 delete eruda.hasJob; // 삭제 
 
 //2. Computed properties 
-// ket는 항상 string type으로 지정해서 받아와야함 
+// key는 항상 string type으로 지정해서 받아와야함 
 console.log(eruda.name);
 console.log(eruda['name']);
 
