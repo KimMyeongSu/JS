@@ -48,3 +48,4 @@ console.log(json)
 //2. JSON to Object  
 // parse(json)
 
+const obj = JSON.parse(json); // obj = {name: '감자', color: '갈색', size: 'small', birthDate: '2022-10-26T12:00:32.335Z'}
