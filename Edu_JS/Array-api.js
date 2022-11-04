@@ -45,31 +45,71 @@ const students = [
 
 // Q5. find a student with the score 90
 {
+  // find 조건에 맞는 첫번째 요소를 반환 
+  
+  const result =  students.find((student) => {return student.score === 90});
+  // console.clear();
+  // console.log(result);
 }
 
 // Q6. make an array of enrolled students
+
 {
+  //filter 결과 배열을 반환 
+  const result = students.filter((student)=> {
+      return student.enrolled;
+  });
+  // console.clear();
+  // console.log(result);
+
 }
 
 // Q7. make an array containing only the students' scores
 // result should be: [45, 80, 90, 66, 88]
 {
+  //map() 각각 요소에  한 속성들을 배열형태로 반환 각각 연산도 가능 
+  // console.clear();
+  let result = students.map((student)=> {
+    return student.score
+  });
+  // console.log(result);
 }
 
 // Q8. check if there is a student with the score lower than 50
 {
+  // console.clear();
+  let result1 = students.some((student)=>{
+    return student.score < 50
+  });
+  let result2 = !students.every((student)=>{
+    return student.score >= 50
+  });
+  // console.log(result);
 }
 
 // Q9. compute students' average score
 {
+  const result = students.reduce((prev, curr)=>{
+    return prev + curr.score;
+  },0);
 }
 
 // Q10. make a string containing all the scores
 // result should be: '45, 80, 90, 66, 88'
 {
+  const result  = students
+  .map((student) => {return student.score})
+  .filter((score)=> {return score <= 50})
+  .join();
+
 }
 
 // Bonus! do Q10 sorted in ascending order
 // result should be: '45, 66, 80, 88, 90'
 {
+  const result  = students
+  .map((student) => {return student.score})
+  .sort((a,b)=> {return b - a})
+  .join();
+  console.log(result)
 }
